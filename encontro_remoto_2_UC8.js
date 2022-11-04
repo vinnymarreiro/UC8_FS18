@@ -40,3 +40,5 @@ if(ingresso == true && idade >= 18 || acompanhado == true){
 }else{
     console.log("Você não tem permissão para entrar")
 }
+
+//Encontro remoto concluido com sucesso.
