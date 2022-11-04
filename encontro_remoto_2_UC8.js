@@ -30,3 +30,13 @@ for (let nome of nomeDeAlunos){
 }
 
 /////////////////////////////
+
+let acompanhado = true
+let idade = 18
+let ingresso = false
+
+if(ingresso == true && idade >= 18 || acompanhado == true){
+    console.log('Bem vindo a festa!!')
+}else{
+    console.log("Você não tem permissão para entrar")
+}
